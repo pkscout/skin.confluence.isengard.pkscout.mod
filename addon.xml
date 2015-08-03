@@ -2,7 +2,7 @@
 <addon
   id="skin.confluence.isengard.pkscout.mod"
   version="3.0.1"
-  name="Confluence"
+  name="Confluence Isengard mods by pkscout"
   provider-name="pkscout|Jezz_X, Team Kodi (Original)">
   <requires>
     <import addon="xbmc.gui" version="5.9.0"/>
