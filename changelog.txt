@@ -17,6 +17,9 @@ FEATURES
 - option to show/hide TV episode/season numbers on home screen (hidden by default)
 - option to show/hide music disc numbers on home screen/music visualization (hidden by default)
 
+v.3.0.2
+- added XML so NextPVR recording options are displayed during timer creation
+
 v.3.0.1
 - updated Revamp Theme to 5.0.4
 
