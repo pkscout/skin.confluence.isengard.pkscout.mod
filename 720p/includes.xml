@@ -15,6 +15,7 @@
 	<include file="IncludesHomeMenuItems.xml" />
 	<include file="IncludesHomeMenuItemsLiveTVSubMenu.xml" />
 	<include file="IncludesPVR.xml" />
+	<include file="IncludesFavoriteBlade.xml" />
 	<include file="IncludesBackgroundBuilding.xml" />
 	<constant name="FanartCrossfadeTime">500</constant>
 	<constant name="IconCrossfadeTime">400</constant>

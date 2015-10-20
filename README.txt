@@ -16,3 +16,4 @@ FEATURES
   http://forums.gbpvr.com/forumdisplay.php?55-X-NEWA
 - option to show/hide TV episode/season numbers on home screen (hidden by default)
 - option to show/hide music disc numbers on home screen/music visualization (hidden by default)
+- option to hide image preview in favorites blade and show more favorites on one screen
